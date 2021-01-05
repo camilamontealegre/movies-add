@@ -1,0 +1,18 @@
+.main {
+	background:white;
+	border-radius: 5px;
+	padding: 10px 30px;
+	box-sizing: border-box;
+    width: 400px;
+    height:200px;
+    margin-left:20px;
+	margin-right:20px;
+	margin-bottom: 30px;
+	position: relative;
+}
+.yellow path{
+    fill:yellow; 
+}
+.gray path{
+    fill:gray; 
+}

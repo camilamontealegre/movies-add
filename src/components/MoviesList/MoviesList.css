@@ -1,0 +1,36 @@
+fieldset {
+	background:#F4F0D2;
+	border: 1px solid black;
+	border-radius: 3px;
+	padding: 20px 45px;
+	box-sizing: border-box;
+	width: 40%;
+	margin: 0 auto;
+	/*stacking fieldsets above each other*/
+	position: relative;
+}
+.title_modifier{
+    font-family: 'Poppins', sans-serif;
+    font-size: 36px;
+    font-weight: 600;
+	margin-top: 0px;
+	text-align: center;
+}
+.pencil_icon{
+	padding-left: 160px;
+}
+.delete_icon{
+	padding-left: 20px;
+}
+.circle_button{
+	margin-left:210px;
+}
+.input_modifier{
+    width: 375px;
+    padding: 10px;
+    margin-top:10px;
+    margin-bottom:25px;
+    font-family: 'Poppins', sans-serif;
+	font-size: 16px;
+	margin-left: 20px
+}
